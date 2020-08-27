@@ -247,14 +247,14 @@
       "metadata": {
         "description": "Linked Templates base url"
       },
-      "defaultValue": "https://raw.githubusercontent.com/ajvwray/azure-sql-ag-arm/tree/master/nested"
+      "defaultValue": "https://raw.githubusercontent.com/ajvwray/azure-sql-ag-arm/master/nested"
     },
     "scriptsBaseUrl": {
       "type": "string",
       "metadata": {
         "description": "DSC Scripts base url"
       },
-      "defaultValue": "https://raw.githubusercontent.com/ajvwray/azure-sql-ag-arm/tree/master/scripts"
+      "defaultValue": "https://raw.githubusercontent.com/ajvwray/azure-sql-ag-arm/master/scripts"
     },
     "autoPatchingDay": {
       "type": "string",
