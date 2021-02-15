@@ -1,6 +1,6 @@
 # # Adapted from https://github.com/Azure/azure-quickstart-templates/tree/master/sqlvm-alwayson-cluster in an attempt to support new Windows Server Images and Sql Server Images
 # # Create an Always On Availability Group with SQL Server 2016 replica virtual machines
-
+# # TODO Fails to deploy clustering
 //TODO later
 <!-- [![Deploy To Azure](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fazure-quickstart-templates%2Fmaster%2Fsqlvm-alwayson-cluster%2Fazuredeploy.json)  [![Visualize](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/visualizebutton.svg?sanitize=true)](http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fazure-quickstart-templates%2Fmaster%2Fsqlvm-alwayson-cluster%2Fazuredeploy.json) -->
 
